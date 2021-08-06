@@ -4,10 +4,10 @@
 
 # Workin Examples of Website:
 
-## ![image](https://user-images.githubusercontent.com/64361746/128471134-90b40a06-223a-49a7-a96d-3d18bca574a8.png)
+## <img src="https://user-images.githubusercontent.com/64361746/128471134-90b40a06-223a-49a7-a96d-3d18bca574a8.png" width="200" height="400">
 
 
-## ![image](https://user-images.githubusercontent.com/64361746/128471506-143e1307-6a35-4208-9b2e-0b6658e10352.png)
+## <img src="https://user-images.githubusercontent.com/64361746/128471506-143e1307-6a35-4208-9b2e-0b6658e10352.png" width="200px" height="400">
 
 
 # Deployed [Here](https://rest-api-country-asia.netlify.app/)
