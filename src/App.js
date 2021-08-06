@@ -24,12 +24,18 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <button
+            style={{
+              marginTop: "30px",
+              width: "200px",
+              height: "50px",
+              borderRadius: "5px",
+            }}
             onClick={() => {
               this.apicall();
               alert("Data refreshed from API");
             }}
           >
-            CLick ME
+            <b>Refresh API</b>
           </button>
           {this.state.mounted
             ? this.state.states.map((eachState) => {
