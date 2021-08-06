@@ -1,4 +1,4 @@
-# A Web site that displays information about the countries of ASIA by fetching the data from restcountries REST-API.
+## A Web site that displays information about the countries of ASIA by fetching the data from restcountries REST-API.
 
 
 
@@ -11,13 +11,13 @@
 
 
 
-## requirements
+## Requirements
 
-## npm install
+### npm install
 
-## npm install axios
+### npm install axios
 
-## npm start
+### npm start
 
 
-## Deployed [Here](https://rest-api-country-asia.netlify.app/)
+### Deployed [Here](https://rest-api-country-asia.netlify.app/)
