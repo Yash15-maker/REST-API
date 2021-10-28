@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import axios from "axios";
 
-const baseUrl = `https://restcountries.eu/rest/v2/region/asia`;
+const baseUrl = `https://restcountries.com/v3.1/region/asia`;
 
 class App extends React.Component {
   state = { states: [], mounted: false };
